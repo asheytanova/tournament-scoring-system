@@ -73,14 +73,22 @@ The program needs to be able to record and store the teams with all their member
 
 ## < ----- Project Plan ----- > 
 
-| Section | Completion | Dates | 
+| Section | Completion | Dates |
+
 | Planning | 100% | 20/03/2026- 25/03/2026 |
+
 | Analysis | 100% | 25/03/2026- 30/03/2026 |
+
 | Design | 100% | 30/03/2026-14/04/2026 |
+
 | Implementation | 100% | 14/04/2026-11/05/2026 |
+
 | Testing | 100% | 11/05/2026-17/05/2026 |
+
 | Maintenance | 100% | 17/05/2026- 31/05/2026 |
+
 | Finalisation | 100% | 31/05/2026-07/06/2026 |
+
 | Submission | 100% | 09/06/2026 |
 
 
