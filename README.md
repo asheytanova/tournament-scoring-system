@@ -48,3 +48,13 @@ The agile software development life cycle model is like a set of principles and 
 Overall, I decided to proceed with the waterfall model due to the lack of a clear system within the agile methodology. If the client constantly makes small changes, it can become impossible for the individual implementing the code to keep up and still meet the originally desired requirements for the program. This then makes the waterfall model the ideal software development life cycle model due to the more fixed phases and clarity of the process.
 
 ***
+
+## < ----- Problem Definition Statement ----- >
+
+The issue is that a college wants a software solution to judge a competition. The competition run will be a tournament for students competing in a series of events for prizes. Participants will be either in teams or individuals, 4 teams with maximum of 5 members in each and 20 spaces for individual competitors. Each will be participating in 5 events or only 1, clearly being defined as individual or team events.  
+
+Different types of events varying from sporting to academic. Each will be awarded points, which are undecided.  
+
+The target audience for this system is for the students that want to enter the competition and for the college that wants to track the tournament results, teams and events. Some constraints are the points given for each event and rank, as they are not specified by the college and should give suggestions to the college for points that can be given for each event.
+
+***
