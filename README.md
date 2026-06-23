@@ -91,17 +91,11 @@ The program needs to be able to record and store the teams with all their member
 <img src="UI Design 1.png" style = "width:75%" /> 
 <img src="UI Design 2.png" style = "width:75%" /> 
 
- 
- 
-
- 
-
-Alternative User Interface Design 
-
- 
+***
+## < ----- Alterative User Interface Design ----- >
 
 Beginning of the program: 
-
+<img src="Alterative UI Design 1.png" style = "width:75%" /> 
  
 
  
