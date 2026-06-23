@@ -83,5 +83,132 @@ The program needs to be able to record and store the teams with all their member
 | Finalisation | 100% | 31/05/2026-07/06/2026 |
 | Submission | 100% | 09/06/2026 |
 
+***
+## < ----- User Interface Design ----- >
 
+<img src="UI Design 1" style = "width:75%" /> 
+
+ 
+
+ 
+
+ 
+
+Alternative User Interface Design 
+
+ 
+
+Beginning of the program: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Team Registration: 
+
+ 
+
+ 
+
+Individual Registration: 
+
+ 
+
+ 
+
+Participants: 
+
+ 
+
+ 
+
+Event Entries: 
+
+ 
+
+ 
+
+Score Entries: 
+
+ 
+
+ 
+
+Leaderboard: 
+
+ 
+
+Exit: 
+
+ 
+
+Overview: 
+
+The design will make the interface easy to understand by separating all the information to make it easier. The places where the user is expected to enter information will also be made to be clear and easy to understand. This information will have gaps to make it easy to read even when the outputs are all on the screen. The different sections of the program will also be separated, then allowing the user to choose when they enter information into the different sections of the program. 
+
+Flowchart 
+
+ 
+
+ 
+
+ 
+
+Pseudocode 
+
+ 
+
+All the subroutines will be created in the code itself, for the pseudocode I will only be creating the menu subroutine. 
+
+ 
+
+print(“**************”) 
+
+print(“*                           *”) 
+
+print(“*   Welcome    *”) 
+
+print(“*                           *”) 
+
+print(“**************”) 
+
+ 
+
+def menu() 
+
+then 
+
+selec = input(“Where would you like to go within the program?”) 
+
+if selec == 1 
+
+then	 
+
+team_reg()		 
+
+if selec == 2 
+
+then	 
+
+individual_reg() 
+
+if selec == 3 
+
+then	 
+
+participants() 
+
+if selec == 4 
+
+then	 
+
+event_entry() 
+
+if selec == 5 
+
+then	 
  
