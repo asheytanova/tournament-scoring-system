@@ -1,14 +1,24 @@
 # Programming Course- College Tournament Scoring System
 
-|## < ----- Software Development Life Cycle (SDLC) ----- >|<img src = "https://storage.ghost.io/c/e2/c8/e2c8c380-908a-4cb3-bbde-7d4cd9649d5f/content/images/2019/08/SDLC-stages.png" style = "width:20%"/>|
+## < ----- Software Development Life Cycle (SDLC) ----- >#
 
 The software development life cycle has 6 stages: 
 
 Planning 
-The planning stage defines the target audience, client requirements, constraints, the complexity of the software to be made. These allow the programmer to find the best and most efficient way to create the software that is needed. This involves collaboration with the client to ensure that it is feasible. 
-
-Analysis 
-This stage is used to understand the task that has been given, understanding how the program would work and how easy or difficult it is to create it. This then allows for the understanding of the constraints of the task and to abstract the task to have the aspects needed, which can then have not as necessary features added. The purpose, features and functions necessary are then defined for the program. 
+The planning stage defines the target audience, client requirements, |<img src = "https://storage.ghost.io/c/e2/c8/e2c8c380-908a-4cb3-bbde-7d4cd9649d5f/content/images/2019/08/SDLC-stages.png" style = "width:20%"/>|
+constraints, the complexity of the software to be made. These allow  |
+the programmer to find the best and most efficient way to create the |
+software that is needed. This involves collaboration with the client |
+to ensure that it is feasible.                                       |
+                                                                     |
+Analysis                                                             | 
+This stage is used to understand the task that has been given,       |
+understanding how the program would work and how easy or difficult   |
+it is to create it. This then allows for the understanding of the    |
+constraints of the task and to abstract the task to have the aspects |
+needed, which can then have not as necessary features added. The     |
+purpose, features and functions necessary are then defined for the   |
+program. 
 
 Design 
 The design is creating the code based off the requirements that are found for the program. Things such as pseudocode and flowcharts are made to understand of how the program will function before it is made, then also ensuring it meets the clients' requirements. These then work as a framework for then creating the code. The design ensures the functionality and aesthetic of the program to be meeting the requirements. 
