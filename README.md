@@ -2,7 +2,7 @@
 
 ## < ----- Software Development Life Cycle (SDLC) ----- >
 
-<img src = "https://storage.ghost.io/c/e2/c8/e2c8c380-908a-4cb3-bbde-7d4cd9649d5f/content/images/2019/08/SDLC-stages.png" width = 100px height = 150px/>
+<img src = "https://storage.ghost.io/c/e2/c8/e2c8c380-908a-4cb3-bbde-7d4cd9649d5f/content/images/2019/08/SDLC-stages.png" width = 200px height = 150px/>
 
 The software development life cycle has 6 stages: 
 
