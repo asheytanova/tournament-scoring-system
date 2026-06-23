@@ -1,6 +1,6 @@
-# Programming Course- College Tournament Scoring System
+## Programming Course- College Tournament Scoring System
 
-< ----- Software Development Life Cycle (SDLC) ----- >
+#< ----- Software Development Life Cycle (SDLC) ----- >
 
 The software development life cycle has 6 stages: 
 
@@ -25,3 +25,4 @@ Testing and Integration
 The testing stage creates feedback for improvements that can be made on the code, being important as it ensures the code functions correctly, performs well, is user-friendly and is secure. Numerous types of tests are used to ensure the code meets all the requirements, some of the types are unit testing, security testing, integration testing and system testing. 
 
 Maintenance 
+The maintenance stage is after when the code is finished and is in use, the code then must have regular updates, bug fixes, changes that meet changing requirements; user needs can change with time. Updates are generally based off user/client feedback. Regular updates also ensure that the software can keep up with current systems, so users can continue to use it. 
