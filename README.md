@@ -133,41 +133,10 @@ The design will make the interface easy to understand by separating all the info
 
 ***
 ## < ----- Flowchart ----- >
-
+<img src="Flowchart.png" style="width:75%" />
 
 ***
-## < ----- Psuedocode ----- >
+## < ----- Pseudocode ----- >
 
 All the subroutines will be created in the code itself, for the pseudocode I will only be creating the menu subroutine. 
-
-
-print(“**************”) 
-print(“*            *”) 
-print(“*   Welcome  *”) 
-print(“*            *”) 
-print(“**************”) 
-
-def menu() 
- then 
- selec = input(“Where would you like to go within the program?”) 
-
-if selec == 1 
- then	 
- team_reg()		 
-
-if selec == 2 
- then	 
- individual_reg() 
-
-if selec == 3 
- then	 
- participants() 
-
-if selec == 4 
- then	 
- event_entry() 
-
-if selec == 5 
-
-then	 
- 
+<img src="Pseudocode.png" style="width:75%" />
