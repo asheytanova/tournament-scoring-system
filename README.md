@@ -2,6 +2,8 @@
 
 ## < ----- Software Development Life Cycle (SDLC) ----- >
 
+< img src = "https://storage.ghost.io/c/e2/c8/e2c8c380-908a-4cb3-bbde-7d4cd9649d5f/content/images/2019/08/SDLC-stages.png">
+
 The software development life cycle has 6 stages: 
 
 Planning 
@@ -24,5 +26,5 @@ Testing and Integration
 
 The testing stage creates feedback for improvements that can be made on the code, being important as it ensures the code functions correctly, performs well, is user-friendly and is secure. Numerous types of tests are used to ensure the code meets all the requirements, some of the types are unit testing, security testing, integration testing and system testing. 
 
-Maintenance 
+Maintenance
 The maintenance stage is after when the code is finished and is in use, the code then must have regular updates, bug fixes, changes that meet changing requirements; user needs can change with time. Updates are generally based off user/client feedback. Regular updates also ensure that the software can keep up with current systems, so users can continue to use it. 
