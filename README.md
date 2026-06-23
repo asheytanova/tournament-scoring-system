@@ -1,4 +1,4 @@
-# Programming Course- College Tournament Scoring System
+# Programming Coursework - College Tournament Scoring System
 
 ## < ----- Software Development Life Cycle (SDLC) ----- >
 
