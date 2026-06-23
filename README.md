@@ -140,3 +140,40 @@ The design will make the interface easy to understand by separating all the info
 
 All the subroutines will be created in the code itself, for the pseudocode I will only be creating the menu subroutine. 
 <img src="Pseudocode.png" style="width:75%" />
+
+***
+## < ----- Feedback & Adjustments ----- >
+
+Feedback: 
+
+The program is easy to understand with the clear options for the menu, using a numbered system. The confirmation message within the entry also makes it clear to the user that their information is saved. However, the menu options are very limited which then makes a lot of information be at once for the user then creating an overload which may make it difficult for users to understand the required inputs for that part in the program. There could be a clearer separation between the end of the part of the program and the menu, so it is easier to then understand. When using the program, it gives errors if the events entered are not typed in the way that they are shown, causing users to need to restart which can be very frustrating to do. The user is also unable to clearly view the participants which can cause the user confusion due to the possibility of not having entered all the teams. The team and individual entry can also prove to be very confusing due to the fact they are put together instead of clearly separated and needing to enter all the teams and individuals at once can be annoying. 
+
+Adjustments 
+
+More menu options 
+
+In the original design I made the user select whether they want to continue the program or end the program, I have changed this to allow the user to choose what parts of the program they enter, allowing them to enter all the information one by one when they decide. The more menu options will then be making the program easier to use due to the better clarity in the different parts of the program. 
+
+Allowing to view participants 
+
+In the original design the user was unable to view the participants after they had been entered, so I added to the menu the option for the user to view the entered participants. Making the user experience much better. 
+
+Separating team entry and individual entry 
+
+In the original design, the team and individual entry was clumped together making it very confusing as the user may mistake it as still team entry even though it changed to individual entry, overall, just making it very confusing. I changed it to separate the two and making it so users can choose to do either from the menu. 
+
+Changing team and individual entry to add one by one 
+
+In the original design, all teams and individuals were to be entered to the maximum number stated in the client brief, however the design does not accommodate to the possibility of entering less teams/individuals. I have changed this, so the teams and individuals are entered one by one by the user by just having to re-enter the menu after each singular entry. 
+
+Structure and Validation 
+
+ 
+
+Data structure and Data storage: 
+
+Data structure is how data is structured within the program and how it is used. Some examples of data structures are dicts and arrays. These both store data and organise it.  
+
+Some of the data structures I will be using are 2D and 3D arrays. I will be using them to store the user's data of the different team and individual entries. They will also store the events and scores for each team/individual and will be used to then create a leaderboard in the program. 
+
+Data storage is the process of recording and preserving digital information for current and future usage. The input data is always provided by the user and the output by the computer; however, the output data cannot work without the user input first. 
