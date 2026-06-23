@@ -130,63 +130,42 @@ Overview:
 
 The design will make the interface easy to understand by separating all the information to make it easier. The places where the user is expected to enter information will also be made to be clear and easy to understand. This information will have gaps to make it easy to read even when the outputs are all on the screen. The different sections of the program will also be separated, then allowing the user to choose when they enter information into the different sections of the program. 
 
-Flowchart 
 
- 
+***
+## < ----- Flowchart ----- >
 
- 
 
- 
-
-Pseudocode 
-
- 
+***
+## < ----- Psuedocode ----- >
 
 All the subroutines will be created in the code itself, for the pseudocode I will only be creating the menu subroutine. 
 
- 
 
 print(“**************”) 
-
-print(“*                           *”) 
-
-print(“*   Welcome    *”) 
-
-print(“*                           *”) 
-
+print(“*            *”) 
+print(“*   Welcome  *”) 
+print(“*            *”) 
 print(“**************”) 
-
- 
 
 def menu() 
-
-then 
-
-selec = input(“Where would you like to go within the program?”) 
+ then 
+ selec = input(“Where would you like to go within the program?”) 
 
 if selec == 1 
-
-then	 
-
-team_reg()		 
+ then	 
+ team_reg()		 
 
 if selec == 2 
-
-then	 
-
-individual_reg() 
+ then	 
+ individual_reg() 
 
 if selec == 3 
-
-then	 
-
-participants() 
+ then	 
+ participants() 
 
 if selec == 4 
-
-then	 
-
-event_entry() 
+ then	 
+ event_entry() 
 
 if selec == 5 
 
