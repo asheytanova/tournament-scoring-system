@@ -8,7 +8,9 @@ The software development life cycle has 6 stages:
 
 Planning:
 
-The planning stage defines the target audience, client requirements, constraints, the complexity of the software to be made. These allow the programmer to find the best and most efficient way to create the software that is needed. This involves collaboration with the client to ensure that it is feasible.                                     
+The planning stage defines the target audience, client requirements, constraints, the complexity of the software to be made. These allow the programmer to find the best and most efficient way to create the software that is needed. This involves collaboration with the client to ensure that it is feasible.                  
+
+
 Analysis:
 
 This stage is used to understand the task that has been given, understanding how the program would work and how easy or difficult it is to create it. This then allows for the understanding of the constraints of the task and to abstract the task to have the aspects needed, which can then have not as necessary features added. The purpose, features and functions necessary are then defined for the program. </p>
