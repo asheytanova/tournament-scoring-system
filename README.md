@@ -58,6 +58,7 @@ Different types of events varying from sporting to academic. Each will be awarde
 The target audience for this system is for the students that want to enter the competition and for the college that wants to track the tournament results, teams and events. Some constraints are the points given for each event and rank, as they are not specified by the college and should give suggestions to the college for points that can be given for each event.
 
 ***
+## < ----- Requirements ----- >
 
 The program needs to be able to record and store the teams with all their members and all the individuals. It then needs to allow the valid team or individual to record what events they entered, then what place they came in. Then the program will display the overall results for all the teams and individuals, determining a first, second and third place.  
 
