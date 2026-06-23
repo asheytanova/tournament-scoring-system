@@ -1,6 +1,6 @@
-## Programming Course- College Tournament Scoring System
+# Programming Course- College Tournament Scoring System
 
-# < ----- Software Development Life Cycle (SDLC) ----- >
+## < ----- Software Development Life Cycle (SDLC) ----- >
 
 The software development life cycle has 6 stages: 
 
