@@ -6,6 +6,7 @@ The software development life cycle has 6 stages:
 
 <img src = "https://storage.ghost.io/c/e2/c8/e2c8c380-908a-4cb3-bbde-7d4cd9649d5f/content/images/2019/08/SDLC-stages.png" style = "width:20%"/>
 ***
+
 Planning:
 
 The planning stage defines the target audience, client requirements, constraints, the complexity of the software to be made. These allow the programmer to find the best and most efficient way to create the software that is needed. This involves collaboration with the client to ensure that it is feasible.                                     
