@@ -36,10 +36,7 @@ Maintenance:
 
 The maintenance stage is after when the code is finished and is in use, the code then must have regular updates, bug fixes, changes that meet changing requirements; user needs can change with time. Updates are generally based off user/client feedback. Regular updates also ensure that the software can keep up with current systems, so users can continue to use it.
 
-
-##
-
-
+***
 
 ## SLDC Models 
 
