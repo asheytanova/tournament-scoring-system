@@ -96,51 +96,27 @@ The program needs to be able to record and store the teams with all their member
 
 Beginning of the program: 
 <img src="Alterative UI Design 1.png" style = "width:75%" /> 
- 
-
- 
-
- 
-
- 
 
 Team Registration: 
-
+<img src="Alterative UI Design 2.png" style = "width:75%" /> 
  
-
- 
-
 Individual Registration: 
-
+<img src="Alterative UI Design 3.png" style = "width:75%" /> 
  
-
- 
-
 Participants: 
-
- 
-
- 
+<img src="Alterative UI Design 4.png" style = "width:75%" /> 
 
 Event Entries: 
-
+<img src="Alterative UI Design 5.png" style = "width:75%" /> 
  
-
- 
-
 Score Entries: 
-
+<img src="Alterative UI Design 6.png" style = "width:75%" /> 
  
-
- 
-
 Leaderboard: 
-
+<img src="Alterative UI Design 7.png" style = "width:75%" /> 
  
-
 Exit: 
-
- 
+<img src="Alterative UI Design 8.png" style = "width:75%" /> 
 
 Overview: 
 
