@@ -89,6 +89,7 @@ The program needs to be able to record and store the teams with all their member
 ## < ----- User Interface Design ----- >
 
 <img src="UI Design 1.png" style = "width:75%" /> 
+<img src="UI Design 2.png" style = "width:75%" /> 
 
  
 
