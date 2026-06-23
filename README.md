@@ -62,7 +62,7 @@ The target audience for this system is for the students that want to enter the c
 The program needs to be able to record and store the teams with all their members and all the individuals. It then needs to allow the valid team or individual to record what events they entered, then what place they came in. Then the program will display the overall results for all the teams and individuals, determining a first, second and third place.  
 
 Requirement  | Description | How | Output | Stored? | 
-| :------------- |:-------------:| :---------:| :----------: | :----------: |
+| :-------------: |:-------------:| :---------:| :----------: | :----------: |
 | Registration | Teams and Individuals can register themselves onto the college tournament scoring system | Using python | A message confirming that they have been registered. | Yes | 
 | Record Event | Teams and individuals can enter their events | Using python | No output | Yes | 
 | Places | Teams and individuals will enter what place they came in for each event. | Using python | No output | Yes |
