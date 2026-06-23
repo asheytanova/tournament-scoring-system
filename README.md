@@ -27,4 +27,21 @@ Testing and Integration
 The testing stage creates feedback for improvements that can be made on the code, being important as it ensures the code functions correctly, performs well, is user-friendly and is secure. Numerous types of tests are used to ensure the code meets all the requirements, some of the types are unit testing, security testing, integration testing and system testing. 
 
 Maintenance
-The maintenance stage is after when the code is finished and is in use, the code then must have regular updates, bug fixes, changes that meet changing requirements; user needs can change with time. Updates are generally based off user/client feedback. Regular updates also ensure that the software can keep up with current systems, so users can continue to use it. 
+The maintenance stage is after when the code is finished and is in use, the code then must have regular updates, bug fixes, changes that meet changing requirements; user needs can change with time. Updates are generally based off user/client feedback. Regular updates also ensure that the software can keep up with current systems, so users can continue to use it.
+
+
+## SLDC Models 
+
+There are 8 software development life cycle models. However, I will be talking about 2, they are: 
+
+Waterfall 
+
+The waterfall software development life cycle model is the easiest to understand approach. It follows a sequence to software development, each phase needing to be completed within the model before being able to go onto the next step of the SLDC. The structure then makes it easy to understand and use for software development. However, the waterfall model has no flexibility then making it difficult to make changes such as improvements after the stage has been moved on from. Testing is also done after the implementation which can have defects arise which cannot then be fixed. The waterfall model is best used when there are clear and fixed requirements and for smaller projects. 
+
+Agile 
+
+The agile software development life cycle model is like a set of principles and values that are outline. The agile model prioritises individuals, working solutions, customer collaboration and responding to changes over documentation. There are several Agile methodologies that have neem developed for these principles. It promotes an iterative approach then allowing adaptations to made from changed requirements. It is flexible, allowing fast adaptations, being vital in fast-paced environments. The communication with the client also ensures the satisfaction of the client and then reducing the risk of not meeting user requirements. 
+
+ 
+
+Overall, I decided to proceed with the waterfall model due to the lack of a clear system within the agile methodology. If the client constantly makes small changes, it can become impossible for the individual implementing the code to keep up and still meet the originally desired requirements for the program. This then makes the waterfall model the ideal software development life cycle model due to the more fixed phases and clarity of the process. 
