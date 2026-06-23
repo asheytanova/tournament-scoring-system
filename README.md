@@ -33,7 +33,7 @@ The maintenance stage is after when the code is finished and is in use, the code
 
 ***
 
-## SLDC Models 
+## < ----- SLDC Models ----- >
 
 There are 8 software development life cycle models. However, I will be talking about 2, they are: 
 
