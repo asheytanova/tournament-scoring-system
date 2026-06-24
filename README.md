@@ -208,7 +208,7 @@ In my code:
 
 <img src="Presence Check.png" style = "width:75%" />
 
-Type Check 
+* Type Check 
 
 A type check is a type of validation that checks if the data is the correct type, such as casting.  
 
@@ -251,3 +251,18 @@ Test No. | Description | Type of Test | Expected Outcome | Result | Pass/Fail
 8 | Place entered for event 1 is written as text | Abnormal | Error/system should not accept | System accepts | Pass 
 9 | Display correct number of points | Normal | Displays correct number of points | Displays correct number of points | Pass 
 
+***
+
+## < ----- Testing ----- >
+
+Test No. | Description | Expected Outcome | Result | Pass/Fail | Evidence
+| :-------------: |:-------------:| :---------:| :---------:| :---------:| :---------:| 
+1 | Menu works | The menu will go to the correct part of the program | Works | Pass | <img src="Test 1.png" style="width:50%"/>
+2 | Allows to enter team | System should accept | System accepts | Pass | <img src="Test 2.png" style="width:50%"/>
+3 | Allows to enter individual | System should accept | <img src="Test 3.png" style="width:50%"/>
+4 | Allows to enter only 1 event | System should accept | System accepts | Pass | <img src="Test 4.png" style="width:50%"/>
+5 | Allows to enter 5 events | System should accept | System accepts | Pass | <img src="Test 5.png" style="width:50%"/>
+6 | Allows to enter 6 events | Error/system should not accept | System does not accept | Pass | <img src="Test 6.png" style="width:50%"/>
+7 | Allows to view participants of an invalid team | Error/system should not accept | System does not accept | Pass | <img src="Test 7.png" style="width:50%"/>
+8 | Place entered for event 1 is written as text | Error/system should not accept | System accepts | Pass | <img src="Test 8.png" style="width:50%"/>
+9 | Display correct number of points | Displays correct number of points | Displays correct number of points | Pass | <img src="Test 9.png" style="width:50%"/>
