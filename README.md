@@ -313,7 +313,7 @@ Fix:
 ### Error 4: The program shows an error message. 
 Original Code:
 
-<img src="Error  Original.png" style="width:75%"/>
+<img src="Error 4 Original.png" style="width:75%"/>
 
 Error:
 
@@ -322,3 +322,16 @@ Error:
 Fix: 
 
 <img src="Error 4 Fix.png" style="width:75%"/>
+
+### Error 5: The program doesn’t run correctly. 
+Original Code:
+
+<img src="Error 5 Original.png" style="width:75%"/>
+
+Error: There is a typo in individual, so when the user types individual the code does not take them to the correct place. 
+
+<img src="Error 5 Error.png" style="width:75%"/>
+
+Fix: 
+
+<img src="Error 5 Fix.png" style="width:75%"/>
