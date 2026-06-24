@@ -150,21 +150,23 @@ The program is easy to understand with the clear options for the menu, using a n
 
 ### Adjustments 
 
-More menu options: 
+* More menu options: 
 
 In the original design I made the user select whether they want to continue the program or end the program, I have changed this to allow the user to choose what parts of the program they enter, allowing them to enter all the information one by one when they decide. The more menu options will then be making the program easier to use due to the better clarity in the different parts of the program. 
 
-Allowing to view participants:
+* Allowing to view participants:
 
 In the original design the user was unable to view the participants after they had been entered, so I added to the menu the option for the user to view the entered participants. Making the user experience much better. 
 
-Separating team entry and individual entry:
+* Separating team entry and individual entry:
 
 In the original design, the team and individual entry was clumped together making it very confusing as the user may mistake it as still team entry even though it changed to individual entry, overall, just making it very confusing. I changed it to separate the two and making it so users can choose to do either from the menu. 
 
-Changing team and individual entry to add one by one:
+* Changing team and individual entry to add one by one:
 
 In the original design, all teams and individuals were to be entered to the maximum number stated in the client brief, however the design does not accommodate to the possibility of entering less teams/individuals. I have changed this, so the teams and individuals are entered one by one by the user by just having to re-enter the menu after each singular entry. 
+
+***
 
 ## < ----- Structure and Validation ----- >
 
@@ -181,8 +183,15 @@ Examples in my code:
 
 ### Validation
 
-Range Check 
+* Range Check:
 
 A range check is a type of validation that ensures that the data is in a specified boundary, for example being between 1 and 3. 
+
+In my code: 
+<img src="Range Check" style = "width:75%" />
+
+* Length Check 
+
+A length check is a type of validation that checks the length of the data such as checking the length of an array. 
 
 In my code: 
