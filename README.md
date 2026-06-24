@@ -330,7 +330,7 @@ Original Code:
 
 Error: There is a typo in individual, so when the user types individual the code does not take them to the correct place. 
 
-<img src="Error 5 Error.png" style="width:75%"/>
+<img src="Error 5.png" style="width:75%"/>
 
 Fix: 
 
