@@ -179,7 +179,7 @@ Some of the data structures I will be using are 2D and 3D arrays. I will be usin
 Data storage is the process of recording and preserving digital information for current and future usage. The input data is always provided by the user and the output by the computer; however, the output data cannot work without the user input first. 
 
 Examples in my code: 
-<img src="Data Storage Code" style = "width:75%"/>
+<img src="Data Storage Code.png" style = "width:75%"/>
 
 ### Validation
 
@@ -188,25 +188,44 @@ Examples in my code:
 A range check is a type of validation that ensures that the data is in a specified boundary, for example being between 1 and 3. 
 
 In my code: 
-<img src="Range Check" style = "width:75%" />
+<img src="Range Check.png" style. = "width:75%" />
 
 * Length Check 
 
 A length check is a type of validation that checks the length of the data such as checking the length of an array. 
 
 In my code: 
-<img src="Range Check" style = "width:75%" />
+<img src="Range Check.png" style = "width:75%" />
 
 * Presence Check 
 
 A presence check is a type of validation that checks if anything has been entered, such as the name. 
 
 In my code: 
-<img src="Presence Check" style = "width:75%" />
+<img src="Presence Check.png" style = "width:75%" />
 
 Type Check 
 
 A type check is a type of validation that checks if the data is the correct type, such as casting.  
 
 In my code: 
-<img src="Type Check" style = "width:75%" />
+<img src="Type Check.png" style = "width:75%" />
+
+***
+
+## < ----- Choice of Language ----- >
+
+### Python
+Python is a well-known programming language that is known as one of the easier programming languages to learn due to the similarity to English. It is used for making websites, software, automation, data analysis and visualising data. It is a programming language that is not made for a specific purpose and has many purposes. Python is an open-source programming language, meaning there is no pay-wall behind wanting to use it, making it more accessible to users. I have chosen to use python as it is free, making it best to reduce the cost. It is fast to learn, can be high performing, supports many different features, implements data types which allows for casting. It also needs less code, compared to many programming languages, making it take less time and effort. The code is easily organised, using features such as comments to make it easy to label what each part of the code is expected to do, making it good for testing, debugging and maintaining the code. Python also allows you to not need to have specific code for different operating systems, being more versatile for users. 
+
+### C#
+C# is an object-oriented programming language, sounding like languages such as C however it is more like Java. The many purposes that C# has consist of creation of mobile applications, desktop application, web applications, web services, websites, games, virtual reality, database applications and more. It is one of the most popular languages due to its ease to learn and simplicity to use. The huge community support also makes it amazing as fellow programmers can collaborate to find solutions that they need help on. It has a clear structure for programming and lets code be reused which can then reduce costs. 
+
+### Java
+Java is another object-oriented programming language which is highly portable as code can be easily moved to different devices with no problems. It needs to be compiled, unlike JavaScript and can be run anywhere. It is also one of the most popular programming languages in the world. It is used for creating mobile apps, web apps, enterprise software, IoT devices, gaming, cloud-based applications and more. It is also free to use and has many available resources for learning how to code in Java, has functions that can be used, community support for challenges that may be face, compatible with different operating systems and can be made secure. 
+
+### JavaScript
+JavaScript is a programming language used for websites and is used to update/change existing HTML and CSS code. It can make websites interactive for users. It is a browser-based language and an interpreted language which means the code is processed while it runs rather than having to compile the code while writing it. 
+
+### Overall Decision
+Overall, I have decided to use python as it is easier to use and understand due to its similarity to English. JavaScript is unsuitable to use as it is used for website and is used alongside HTML and CSS, the program is not going to be created as a website for the client but as a program. Python is a more abstracted coding language, making the overall code be shorter and faster to create. This then makes it the more ideal programming language over C# and Java due to their lengthier coding.  
