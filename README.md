@@ -304,7 +304,7 @@ Original Code:
 
 Error:
 
-<img src="Error 3 Error.png" style="width:75%"/>
+<img src="Error 3.png" style="width:75%"/>
 
 Fix: 
 
@@ -317,7 +317,7 @@ Original Code:
 
 Error:
 
-<img src="Error 4 Error.png" style="width:75%"/>
+<img src="Error 4.png" style="width:75%"/>
 
 Fix: 
 
