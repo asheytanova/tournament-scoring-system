@@ -179,7 +179,7 @@ Some of the data structures I will be using are 2D and 3D arrays. I will be usin
 Data storage is the process of recording and preserving digital information for current and future usage. The input data is always provided by the user and the output by the computer; however, the output data cannot work without the user input first. 
 
 Examples in my code: 
-<img src="Data Sotrage Code" style = "width:75%"/>
+<img src="Data Storage Code" style = "width:75%"/>
 
 ### Validation
 
@@ -195,3 +195,18 @@ In my code:
 A length check is a type of validation that checks the length of the data such as checking the length of an array. 
 
 In my code: 
+<img src="Range Check" style = "width:75%" />
+
+* Presence Check 
+
+A presence check is a type of validation that checks if anything has been entered, such as the name. 
+
+In my code: 
+<img src="Presence Check" style = "width:75%" />
+
+Type Check 
+
+A type check is a type of validation that checks if the data is the correct type, such as casting.  
+
+In my code: 
+<img src="Type Check" style = "width:75%" />
