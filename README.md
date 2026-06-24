@@ -144,7 +144,7 @@ All the subroutines will be created in the code itself, for the pseudocode I wil
 ***
 ## < ----- Feedback & Adjustments ----- >
 
-Feedback: 
+### Feedback: 
 
 The program is easy to understand with the clear options for the menu, using a numbered system. The confirmation message within the entry also makes it clear to the user that their information is saved. However, the menu options are very limited which then makes a lot of information be at once for the user then creating an overload which may make it difficult for users to understand the required inputs for that part in the program. There could be a clearer separation between the end of the part of the program and the menu, so it is easier to then understand. When using the program, it gives errors if the events entered are not typed in the way that they are shown, causing users to need to restart which can be very frustrating to do. The user is also unable to clearly view the participants which can cause the user confusion due to the possibility of not having entered all the teams. The team and individual entry can also prove to be very confusing due to the fact they are put together instead of clearly separated and needing to enter all the teams and individuals at once can be annoying. 
 
@@ -178,7 +178,8 @@ Some of the data structures I will be using are 2D and 3D arrays. I will be usin
 
 Data storage is the process of recording and preserving digital information for current and future usage. The input data is always provided by the user and the output by the computer; however, the output data cannot work without the user input first. 
 
-Examples in my code: 
+Examples in my code:
+
 <img src="Data Storage Code.png" style = "width:75%"/>
 
 ### Validation
@@ -188,6 +189,7 @@ Examples in my code:
 A range check is a type of validation that ensures that the data is in a specified boundary, for example being between 1 and 3. 
 
 In my code: 
+
 <img src="Range Check.png" style. = "width:75%" />
 
 * Length Check 
@@ -195,6 +197,7 @@ In my code:
 A length check is a type of validation that checks the length of the data such as checking the length of an array. 
 
 In my code: 
+
 <img src="Range Check.png" style = "width:75%" />
 
 * Presence Check 
@@ -202,6 +205,7 @@ In my code:
 A presence check is a type of validation that checks if anything has been entered, such as the name. 
 
 In my code: 
+
 <img src="Presence Check.png" style = "width:75%" />
 
 Type Check 
@@ -209,6 +213,7 @@ Type Check
 A type check is a type of validation that checks if the data is the correct type, such as casting.  
 
 In my code: 
+
 <img src="Type Check.png" style = "width:75%" />
 
 ***
@@ -229,3 +234,20 @@ JavaScript is a programming language used for websites and is used to update/cha
 
 ### Overall Decision
 Overall, I have decided to use python as it is easier to use and understand due to its similarity to English. JavaScript is unsuitable to use as it is used for website and is used alongside HTML and CSS, the program is not going to be created as a website for the client but as a program. Python is a more abstracted coding language, making the overall code be shorter and faster to create. This then makes it the more ideal programming language over C# and Java due to their lengthier coding.  
+
+***
+
+## < ----- Test Plan ----- >
+
+Test No. | Description | Type of Test | Expected Outcome | Result | Pass/Fail 
+| :-------------: |:-------------:| :---------:| :---------:| :---------:| :---------:| 
+1 | Menu works | Normal | The menu will go to the correct part of the program | Works | Pass 
+2 | Allows to enter team | Normal | System should accept | System accepts | Pass 
+3 | Allows to enter individual | Normal | System should accept 
+4 | Allows to enter only 1 event | Normal | System should accept | System accepts | Pass 
+5 | Allows to enter 5 events | Normal | System should accept | System accepts | Pass 
+6 | Allows to enter 6 events | Abnormal | Error/system should not accept | System does not accept | Pass 
+7 | Allows to view participants of an invalid team | Abnormal | Error/system should not accept | System does not accept | Pass 
+8 | Place entered for event 1 is written as text | Abnormal | Error/system should not accept | System accepts | Pass 
+9 | Display correct number of points | Normal | Displays correct number of points | Displays correct number of points | Pass 
+
