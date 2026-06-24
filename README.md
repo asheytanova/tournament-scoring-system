@@ -39,7 +39,7 @@ There are 8 software development life cycle models. However, I will be talking a
 
 Waterfall:
 
-<j> The waterfall software development life cycle model is the easiest to understand approach. It follows a sequence to software development, each phase needing to be completed within the model before being able to go onto the next step of the SLDC. The structure then makes it easy to understand and use for software development. However, the waterfall model has no flexibility then making it difficult to make changes such as improvements after the stage has been moved on from. Testing is also done after the implementation which can have defects arise which cannot then be fixed. The waterfall model is best used when there are clear and fixed requirements and for smaller projects. </j>
+The waterfall software development life cycle model is the easiest to understand approach. It follows a sequence to software development, each phase needing to be completed within the model before being able to go onto the next step of the SLDC. The structure then makes it easy to understand and use for software development. However, the waterfall model has no flexibility then making it difficult to make changes such as improvements after the stage has been moved on from. Testing is also done after the implementation which can have defects arise which cannot then be fixed. The waterfall model is best used when there are clear and fixed requirements and for smaller projects.
 
 Agile:
 
@@ -177,3 +177,6 @@ Data structure is how data is structured within the program and how it is used. 
 Some of the data structures I will be using are 2D and 3D arrays. I will be using them to store the user's data of the different team and individual entries. They will also store the events and scores for each team/individual and will be used to then create a leaderboard in the program. 
 
 Data storage is the process of recording and preserving digital information for current and future usage. The input data is always provided by the user and the output by the computer; however, the output data cannot work without the user input first. 
+
+Examples in my code: 
+<img src="Data Sotrage Code" style = "width:75%"/>
