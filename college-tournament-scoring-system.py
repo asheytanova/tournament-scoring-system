@@ -10,7 +10,6 @@
 # Points for participants = 5 points
 
 # Imports
-from asyncio import events
 import time
 
 # Arrays
