@@ -350,6 +350,20 @@ Completion messages has been added to both team and individual score entries.
 
 ## < ----- Personal Review ----- >
 
+I followed the plan shown at the start of this assignment as closely as possible. I planned my code to take the largest amount of time during this assignment as I wanted the code to be well-made. I allowed myself approximately 3 weeks to create the code as I was simultaneously learning new methods and practises within python. Before that I allowed myself approximately 2 weeks to create the design for the program and the code itself based on the client brief. At the beginning of the assignment, I created a simple plan to show the progress and time frame I planned to follow for this assignment.  
+
+I personally did not follow the time frame that I had given myself as well as I should have. The code was completed a week later than expected, causing me to then struggle to meet the deadline. Next time I will be following the time frames I set more closely, to ensure I do not end up in the same situation in the future. 
+
+The feedback I was given and used for my improvements were summarised from my peers which I then improved my design using this feedback. I then checked with my peers if the alternative design I then created met was better and improved on based on their feedback and they agreed. 
+
+While completing the assignment I helped my peers by giving them feedback and support on their design and code as it was being created, and they did likewise for me. I held myself accountable for being unable to complete the code within the time frame I created and made myself spend less time on other aspects of the assignment which may have made the detail suffer.  
+
+Based on this feedback I then made changes to my design, such as adding more options in the menu system and from feedback I have not shown I made more adjustments and later on used some of the suggestions for the program maintenance, by adding more completion messages informing the user that their input has been recorded. All my adjustments to the design and then later the code were due to the feedback received from my peers. 
+
+Next time, I will be certain to follow my time frames set better so there is not a situation where there would be the need to give myself less time on one part of the task due to not finishing the other part within the time frame as required. 
+
+***
+
 ## < ----- Evaluation ----- >
 
 The decisions I made during the design phase, such as the menu system stuck throughout the alternative design and then in the implementation phase where I created the code. It was a very effective feature as it allows the user to choose where in the program to go and to input different data at their own pace. Some of the adjustments I made to the menu system was adding more options for the user to choose from after the feedback I received, earlier in the assignment.  This was effective because it simplified the user interface and allowed users to make more decisions of their own. However, some of the limitations are that the menu options are still quite limited, and more options could be added for the user. 
