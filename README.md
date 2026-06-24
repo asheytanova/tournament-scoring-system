@@ -142,7 +142,7 @@ All the subroutines will be created in the code itself, for the pseudocode I wil
 <img src="Pseudocode.png" style="width:75%" />
 
 ***
-## < ----- Feedback & Adjustments ----- >
+##CCCC Feedback & Adjustments ----- >
 
 Feedback: 
 
@@ -166,11 +166,9 @@ Changing team and individual entry to add one by one
 
 In the original design, all teams and individuals were to be entered to the maximum number stated in the client brief, however the design does not accommodate to the possibility of entering less teams/individuals. I have changed this, so the teams and individuals are entered one by one by the user by just having to re-enter the menu after each singular entry. 
 
-Structure and Validation 
+## < ----- Structure and Validation ----- >
 
- 
-
-Data structure and Data storage: 
+### Data structure and Data storage: 
 
 Data structure is how data is structured within the program and how it is used. Some examples of data structures are dicts and arrays. These both store data and organise it.  
 
@@ -180,3 +178,11 @@ Data storage is the process of recording and preserving digital information for 
 
 Examples in my code: 
 <img src="Data Sotrage Code" style = "width:75%"/>
+
+### Validation
+
+Range Check 
+
+A range check is a type of validation that ensures that the data is in a specified boundary, for example being between 1 and 3. 
+
+In my code: 
