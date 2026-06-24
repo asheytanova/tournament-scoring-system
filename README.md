@@ -247,9 +247,8 @@ Test No. | Description | Type of Test | Expected Outcome | Result | Pass/Fail
 4 | Allows to enter only 1 event | Normal | System should accept | System accepts | Pass 
 5 | Allows to enter 5 events | Normal | System should accept | System accepts | Pass 
 6 | Allows to enter 6 events | Abnormal | Error/system should not accept | System does not accept | Pass 
-7 | Allows to view participants of an invalid team | Abnormal | Error/system should not accept | System does not accept | Pass 
-8 | Place entered for event 1 is written as text | Abnormal | Error/system should not accept | System accepts | Pass 
-9 | Display correct number of points | Normal | Displays correct number of points | Displays correct number of points | Pass 
+7 | Place entered for event 1 is written as text | Abnormal | Error/system should not accept | System accepts | Pass 
+8 | Display correct number of points | Normal | Displays correct number of points | Displays correct number of points | Pass 
 
 ***
 
@@ -263,6 +262,5 @@ Test No. | Description | Expected Outcome | Result | Pass/Fail | Evidence
 4 | Allows to enter only 1 event | System should accept | System accepts | Pass | <img src="Test 4.png" style="width:50%"/>
 5 | Allows to enter 5 events | System should accept | System accepts | Pass | <img src="Test 5.png" style="width:50%"/>
 6 | Allows to enter 6 events | Error/system should not accept | System does not accept | Pass | <img src="Test 6.png" style="width:50%"/>
-7 | Allows to view participants of an invalid team | Error/system should not accept | System does not accept | Pass | <img src="Test 7.png" style="width:50%"/>
-8 | Place entered for event 1 is written as text | Error/system should not accept | System accepts | Pass | <img src="Test 8.png" style="width:50%"/>
-9 | Display correct number of points | Displays correct number of points | Displays correct number of points | Pass | <img src="Test 9.png" style="width:50%"/>
+7 | Place entered for event 1 is written as text | Error/system should not accept | System accepts | Pass | <img src="Test 7.png" style="width:50%"/>
+8 | Display correct number of points | Displays correct number of points | Displays correct number of points | Pass | <img src="Test 8.png" style="width:50%"/>
