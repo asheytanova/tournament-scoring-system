@@ -335,3 +335,62 @@ Error: There is a typo in individual, so when the user types individual the code
 Fix: 
 
 <img src="Error 5 Fix.png" style="width:75%"/>
+
+***
+
+## < ----- Maintenance ----- >
+
+Adding completion messages to the rest of the parts of the program. 
+
+Team + Individual Score Entries:
+Completion messages has been added to both team and individual score entries.
+<img src="Maintenance.png" style="width:50%"/>
+
+***
+
+## < ----- Personal Review ----- >
+
+## < ----- Evaluation ----- >
+
+The decisions I made during the design phase, such as the menu system stuck throughout the alternative design and then in the implementation phase where I created the code. It was a very effective feature as it allows the user to choose where in the program to go and to input different data at their own pace. Some of the adjustments I made to the menu system was adding more options for the user to choose from after the feedback I received, earlier in the assignment.  This was effective because it simplified the user interface and allowed users to make more decisions of their own. However, some of the limitations are that the menu options are still quite limited, and more options could be added for the user. 
+
+| Number | Client Requirements | Included? | How? |
+|:------:|:--------:|:--------:|:-------:|
+| 1 | Participants may enter as individuals or as part of a team | Yes | In the tournament system I created a menu for users to choose if they want to register teams or individuals (and more). The individuals or teams were successfully able to enter. This was implemented in both my design and code itself.  
+| 2 | Spaces for 20 individuals and 4 teams | Yes | In the tournament scoring system once 4 teams or 20 individuals had been entered the user was no longer allowed to input more teams or individuals. This was not specified in my design however it was included in my code after improving it after the errors I came across. 
+| 3 | Will compete in 5 events, adding the possibility of only 1 event. | Yes | I made that both teams and individuals were given the option of either 1 or 5 events to enter. This was implemented straight into my code and was not shown during the design phase. 
+| 4 | Events will be team or individual events | Yes | In the design I had that users would specify if they were a team or an individual, however I changed it within my code for when users chose event entry. It took users to a menu to choose either team or individual score entry and then the events later displayed for users to pick from were from different lists as team and individual events were different, however some were in both lists. 
+| 5 | Events will vary from sporting to academic. | Yes | I gave the users the option between sport events, academic events or both types of events within the event entry. This was not shown in my design; however, it was implemented within my code.  
+| 6 | Teams and individuals will be awarded points based on their rank within each event. | Yes | Within my code users are to enter their place for each event they previously entered. After the places are entered, their points are calculated and added together. Each team/individuals’ points can be seen later within the leaderboard. 
+
+
+Another decision that was made during the design phase was the separation of the team and individual registration after the feedback I received. It appeared too confusing for users to enter both at the same time, so in my alternative design I made it that the two are separated within the menu system. Strengths to this adjustment is the fact it makes it easier for the user to differentiate between the different registrations which ensures the user is less likely to be confused. However, some limitations to this adjustment are that each team and individual must be inputted one by one by selecting the part in the menu, this can prove to be a lengthier process for users. A possible improvement that could be made is making the team and individual registration make the user keep entering until they make it stop, for example typing stop. 
+
+ 
+
+Another decision made during the design process was the choice of programming language. I chose to use pythons as it was clear and easy to understand syntax which made it perfect to use due to the readability of the code and easy development with it. Strengths to this decision are the ease in learning the programming language due to its similarity to English. However, a limitation is the sole usage of python does not allow the usage of a graphical user interface. An improvement that could be made would be using something alongside python to create an interactive user interface for users. 
+
+ 
+
+The program was then produced using python due to the many reasons and features that made it ideal to use. The code uses many sub routines to make the user to be able to input or view different parts of the program whenever they would want to, improving the user experience by giving the freedom to users. I decided to first create a base for each sub routine by assigning each a number so I could first create the menu system. After I created the menu system, I made the sub routines do the required function one by one. I began with the team registration then, individual registration, viewing participants, event entry, score entry, leaderboard and exiting the system. For the event entry I also added an additional menu to simply the code both for me and for users. The menu gave three options to the user, to enter the events for a team, an individual or to return to the original menu. Like this I was able to reduce the length of the sub routine by just splitting it into 3 which then also makes the code more readable. The total code came out to approximately 500 lines however; it will probably increase if more changes are made in the future as maintenance. Some strengths of the code are the usage of subroutines, as the code is designed with a menu in mind users can easily go back to a section as the menu utilises the subroutines by easily starting them again. However, a limitation to the code is the inability to stop a part of the program halfway. AN improvement that could be made to the code is adding the option for users to exit the part of the program and return to menu if they change their mind about inputting the information. 
+
+ 
+
+There were 5 errors that I recorded within the assignment, 2 errors being due to simple typos I made within the code and another due to another typo I made however, it affected what would happen when a user made an input in one of the menus. The first error I recorded was due to the absence of a length check within the sub routine for the team registration. I fixed it by creating an if statement which would check the length of the array the teams were all saved to and forced the user to return to the menu if the teams were more than 4. The second error was like the first, however it was within the individual registration. I used the same method to correct the error just adjusted it to fit the client requirements, making the maximum number of individuals in the array 20. The third error was a typo within a print statement, forcing the code to stop due to the error. I fixed it by just correcting the typo of rpint to print. The fourth error was similar to the third however the error was the spelling of menu(), i spelt it as meun() which caused an error and the code to stop. The final error recorded was also a typo however it made the user unable to proceed to the score entry if they were an individual as I misspelt individual as idividual. This then caused the users’ valid entry to be seen as invalid. I fixed the typo and the code worked correctly. All of these errors affected how the program worked and fixing them made the program work effectively for users. 
+
+ 
+
+The program met the client requirements as they were: 
+
+| Requirement | Description | How | Output | Stored? 
+|:-----:|:-------:|:-------:|:-------:|:--------:|
+| Registration | Teams and Individuals can register themselves onto the college tournament scoring system | Using python | A message confirming that they have been registered. | Yes 
+| Record Event | Teams and individuals can enter their events | Using python | No output | Yes 
+| Places | Teams and individuals will enter what place they came in for each event. | Using python | No output | Yes 
+| Leaderboard | Will display 1st, 2nd and 3rd place | Using python | 1st, 2nd and 3rd place | No 
+
+All of these requirements were implemented into the program and can be accessed by the user easily through the menu system by just selecting the desired option. In the client requirements it states for the teams to be capped at 4 and to have 5 members in each team, the individuals to be capped at 20, all teams or individuals can complete 5 events or be give the possibility of entering for only one event, the events to be individual or team events, points to be rewarded based on rank and sporting and academic events. The client allowed me to choose the points for each ranking, and I decided to have first place receive 30 points, second place receive 25 points, third place receive 20 points, and all other participants receive 5 points. I believe that I fully met the client requirements with the program and would be able to further improv eon it with future maintenance of the program. 
+
+Some future improvements that could be made is more clarity/spacing within the program. Such as asterisks or lines showing clear separation between the menu and the previous part of the program that the user was in. This can make it clearer for users and make it easier to understand the program.  Another future improvement that could be made is implementing a more detailed user interface by using some graphic elements or buttons to make it interactive for users. Possibly adding the possibility of it being used on different devices can also further improve it. 
+
+Overall, I was able to effectively develop a program for the client by using the waterfall software development life cycle and following a plan with time frames for each aspect of the assignment. I compared different programming languages and, in the end, decided to use python due to many positives, tested the code numerous times and documented errors that came up within the code. The user interface created was simple due to the usage of solely python however it effectively met client requirements and allows the program to be usable for users. 
