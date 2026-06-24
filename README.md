@@ -258,7 +258,7 @@ Test No. | Description | Expected Outcome | Result | Pass/Fail | Evidence
 | :-------------: |:-------------:| :---------:| :---------:| :---------:| :---------:| 
 1 | Menu works | The menu will go to the correct part of the program | Works | Pass | <img src="Test 1.png" style="width:100%"/>
 2 | Allows to enter team | System should accept | System accepts | Pass | <img src="Test 2.png" style="width:100%"/>
-3 | Allows to enter individual | System should accept | <img src="Test 3.png" style="width:100%"/>
+3 | Allows to enter individual | System should accept | System accepts | Pass | <img src="Test 3.png" style="width:100%"/>
 4 | Allows to enter only 1 event | System should accept | System accepts | Pass | <img src="Test 4.png" style="width:100%"/>
 5 | Allows to enter 5 events | System should accept | System accepts | Pass | <img src="Test 5.png" style="width:100%"/>
 6 | Allows to enter 6 events | Error/system should not accept | System does not accept | Pass | <img src="Test 6.png" style="width:100%"/>
