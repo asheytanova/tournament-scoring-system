@@ -264,3 +264,61 @@ Test No. | Description | Expected Outcome | Result | Pass/Fail | Evidence
 6 | Allows to enter 6 events | Error/system should not accept | System does not accept | Pass | <img src="Test 6.png" style="width:100%"/>
 7 | Place entered for event 1 is written as text | Error/system should not accept | System accepts | Pass | <img src="Test 7.png" style="width:100%"/>
 8 | Display correct number of points | Displays correct number of points | Displays correct number of points | Pass | <img src="Test 8.png" style="width:100%"/>
+
+***
+
+## < ----- Error Log ----- >
+
+### Error 1: The program allows users to input more than 4 teams  
+Original Code:
+
+<img src="Error 1 Original.png" style="width:75%"/>
+
+Error: The user was able to input 5 teams instead of the maximum 4 
+
+<img src="Error 1.png" style="width:75%"/>
+
+Fix: 
+
+<img src="Error 1 Fix 1.png" style="width:75%"/>
+<img src="Error 1 Fix 2.png" style="width:75%"/>
+
+### Error 2: The program allows users to input more than 20 individuals. 
+Original Code:
+
+<img src="Error 2 Original.png" style="width:75%"/>
+
+Error: The user was able to input 21 individuals instead of the maximum 20 
+
+<img src="Error 2.png" style="width:75%"/>
+
+Fix: 
+
+<img src="Error 2 Fix 1.png" style="width:75%"/>
+<img src="Error 2 Fix 2.png" style="width:75%"/>
+
+### Error 3: The program shows an error message. 
+Original Code:
+
+<img src="Error 3 Original.png" style="width:75%"/>
+
+Error:
+
+<img src="Error 3 Error.png" style="width:75%"/>
+
+Fix: 
+
+<img src="Error 3 Fix.png" style="width:75%"/>
+
+### Error 4: The program shows an error message. 
+Original Code:
+
+<img src="Error  Original.png" style="width:75%"/>
+
+Error:
+
+<img src="Error 4 Error.png" style="width:75%"/>
+
+Fix: 
+
+<img src="Error 4 Fix.png" style="width:75%"/>
